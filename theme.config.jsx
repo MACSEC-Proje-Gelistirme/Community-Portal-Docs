@@ -1,7 +1,7 @@
 import { useRouter } from 'next/router'
 
 export default {
-  logo: <span>Buildog</span>,
+  logo: <span>Community-Portal</span>,
   project: {
     link: 'https://github.com/MACSEC-Proje-Gelistirme/Community-Portal-Docs'
   },
