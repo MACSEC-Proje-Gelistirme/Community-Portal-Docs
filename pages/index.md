@@ -1,6 +1,18 @@
-## Community Portal
+# Community Portal
 
-# Yapılacaklar
+Community Portal, öncelikle üniversitelerdeki öğrenci kulüpleri ve toplulukları için oluşturulmuş kümülatif bir iletişim portalıdır. Bu web sitesinin amacı, toplulukların insan toplayabilmesi, kendi web sitelerini oluşturabilmesi ve aktif üyelerine etkinlik ile sosyal medya benzeri fotoğraf paylaşım hizmeti sağlamaktır. Bu sayede çoğu topluluk için eksik olan iletişim altyapısı tamamlanmış olacaktır. Kullanıcı dostu ve kişiselleştirilebilir özellikleriyle oldukça öğrenci dostu bir web sitesidir.
+
+## Web Sitesinin Ana Bölümleri
+1. **Ana Sayfa**
+2. **Kulüp Kişisel Web Sitesi**
+3. **Feed**
+4. **Etkinlikler**
+5. **Kulüpler**
+6. **Galeri**
+
+---
+
+## Yapılacaklar
 
 ## Feed
 - Feed içeriği, kulüplerin galerilerinde ve etkinlik sayfalarında paylaştıkları içeriklerden oluşacak.
@@ -52,3 +64,51 @@
   - Feed'de beğeni ve yorum sayısını gösterecek.
   - Etkinliklere katılım sayılarını gösterecek.
   - Zamana göre üye değişim analizini içerecek.
+
+## Kullanılan Teknolojiler
+
+### Backend
+- Java
+- Spring Boot
+- RabbitMQ
+- Redis
+- Terraform
+
+### Database
+- PostgreSQL
+- MongoDB
+
+### Frontend
+- Next.js
+
+### CI/CD
+- GitHub Actions
+- AWS CodeBuild
+- Maybe Lambda
+
+### Cloud
+- AWS ya da Cloudflare
+
+### Containerization
+- Kubernetes (şimdilik Docker Compose)
+
+---
+
+## Gerekli Pozisyonlar
+
+### Yönetim
+- **Müdür:** Arda
+- **Lead Engineer:** Eren
+
+### Geliştirme
+- **Frontend:** 1 veya daha fazla geliştirici (sayı ileride netleşecek)
+- **Backend:** 1 geliştirici
+- **Tasarım:** 1 kişi
+- **Cloud:** 1 kişi
+
+> **Not:** İhtiyaç durumunda daha fazla pozisyon açılabilir.
+
+---
+
+**Hedef:** İş yükünü olabildiğince makul düzeyde tutmak.
+
