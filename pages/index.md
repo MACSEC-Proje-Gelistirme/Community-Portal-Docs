@@ -65,7 +65,6 @@ Community Portal, öncelikle üniversitelerdeki öğrenci kulüpleri ve topluluk
   - Etkinliklere katılım sayılarını gösterecek.
   - Zamana göre üye değişim analizini içerecek.
 
-
 ## Kullanılan Teknolojiler
 
 ### Backend
