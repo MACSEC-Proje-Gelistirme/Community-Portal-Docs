@@ -97,6 +97,7 @@ Community Portal, öncelikle üniversitelerdeki öğrenci kulüpleri ve topluluk
 ## Gerekli Pozisyonlar
 
 ### Yönetim
+
 - **Proje Yönetimi:** Arda
 - **Lead Engineer:** Eren
 
